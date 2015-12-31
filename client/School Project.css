@@ -1,0 +1,12 @@
+/* CSS declarations go here */
+body{
+margin: 20px;
+}
+
+.DOB{
+width: 70px;
+}
+
+#DOBmonth{
+	width: 80px;
+}
